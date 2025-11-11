@@ -1,4 +1,4 @@
-# Hệ thống AI Tư Vấn Bất Động Sản - Tài Liệu MVP (3 tháng)
+# Hệ thống AI Tư Vấn Bất Động Sản - Tài Liệu MVP
 
 ## 1. Đối tượng người dùng
 
