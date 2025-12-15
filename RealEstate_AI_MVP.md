@@ -68,6 +68,12 @@
 - Đề xuất danh sách bất động sản phù hợp với tiêu chí người dùng (ví dụ: căn hộ dưới 3 tỷ tại TP.HCM).
 - Cho phép so sánh cơ bản giữa các bất động sản dựa trên giá, vị trí, và tiện ích.
 
+### Thông Tin Pháp Lý
+
+- Hướng dẫn quy trình: Checklist mua/bán, timeline.
+- Tra cứu luật: DB luật BDS, tóm tắt giấy tờ.
+- Mẫu tài liệu: Mẫu hợp đồng, kiểm tra sổ đỏ (qua PDF tools).
+
 ### Giao diện thân thiện và đa nền tảng
 
 - Hỗ trợ giao tiếp qua chatbot trên web để tra cứu và đặt lịch (ví dụ: “Đặt lịch xem nhà ở Quận 7 vào thứ Bảy”).
